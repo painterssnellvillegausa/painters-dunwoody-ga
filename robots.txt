@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Sitemap will be generated after the new hosting URL is supplied.
